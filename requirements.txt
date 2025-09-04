@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+rich
+gtts
+pydantic
+python-multipart
+SpeechRecognition
+pyaudio
